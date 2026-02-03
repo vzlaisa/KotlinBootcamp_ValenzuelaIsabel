@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Aquarium/Aquarium.iml" filepath="$PROJECT_DIR$/Aquarium/Aquarium.iml" />
       <module fileurl="file://$PROJECT_DIR$/Books/Books.iml" filepath="$PROJECT_DIR$/Books/Books.iml" />
       <module fileurl="file://$PROJECT_DIR$/Buildings/Buildings.iml" filepath="$PROJECT_DIR$/Buildings/Buildings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionsGame/FunctionsGame.iml" filepath="$PROJECT_DIR$/FunctionsGame/FunctionsGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hello Kotlin.iml" filepath="$PROJECT_DIR$/Hello Kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spices/Spices.iml" filepath="$PROJECT_DIR$/Spices/Spices.iml" />
     </modules>

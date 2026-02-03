@@ -30,6 +30,5 @@ fun genericExample2() {
     val aquarium: Aquarium3<TapWater2> = Aquarium3(TapWater2())
     isWaterClean(aquarium)
 
-    aquarium.hasWaterSupplyOfType<TapWater2>()
     aquarium.waterSupply.isOfType<LakeWater2>()
 }
